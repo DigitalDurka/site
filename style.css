@@ -1,0 +1,36 @@
+
+body {
+    background-color: rgb(32, 29, 29);
+}
+
+.TopSide {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    word-spacing: 15px;
+    color: white;
+    text-align: center;
+    border:4px solid white;
+}
+.image {
+    border: 7px dashed rgb(99, 98, 98);
+    width: 40%;
+    margin-top: 10px;
+    float: left;
+}
+.NameAndInfo {
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    border: 5px solid white;
+    float: right;
+    margin-top: 10px;
+    min-width: 58%;   
+}
+.Name { 
+    word-spacing: 15px;
+    font-size: 40px;
+}
+.Information {
+    font-size: 25px;
+}
